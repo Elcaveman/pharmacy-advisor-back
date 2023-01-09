@@ -20,5 +20,3 @@ Pour mettre en place ce projet, vous aurez besoin des éléments suivants :
 3. configurer la connexion avec MYSQL dans le fichier properties en indiquant le nom de la base de donnée et le port ou MYSQL est en fonction
 4. lancer le projet en tant que springBoot Application
 5. tester les api avec postman selon leur url dans les controllers
-# Auteur
-Ce projet a été réalisé par Ziz Ilyas.
